@@ -19,7 +19,7 @@
     "@angular/flex-layout": "^8.0.0-beta.26",
     "@angular/forms": "^8.1.2",
     "@angular/platform-browser": "^8.1.2",
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^18.4.1",
     "@ionic/angular": "^4.6.2",
     "@ionic/core": "^4.6.2",
     "@material/dom": "^3.0.0",
